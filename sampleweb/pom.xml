@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>sampleweb</artifactId>
-    <!--<packaging>war</packaging>-->
+    <packaging>war</packaging>
 
     <dependencies>
         <dependency>
